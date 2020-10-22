@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HW6-NumericIntegration", "HW6-NumericIntegration.pyproj", "{B8BCD12C-ECF9-4CC9-A677-1ECA7AA52BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BCD12C-ECF9-4CC9-A677-1ECA7AA52BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BCD12C-ECF9-4CC9-A677-1ECA7AA52BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCFE93C-73AD-46CB-9CFA-D629E262B4AB}
+	EndGlobalSection
+EndGlobal
