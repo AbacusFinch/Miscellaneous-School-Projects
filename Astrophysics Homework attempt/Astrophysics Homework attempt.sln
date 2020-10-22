@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Astrophysics Homework attempt", "Astrophysics Homework attempt.pyproj", "{2508E049-3A96-45D0-A44C-C547F1F5A5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2508E049-3A96-45D0-A44C-C547F1F5A5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2508E049-3A96-45D0-A44C-C547F1F5A5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D7D931-EBED-45EC-BD1C-CE27FE7AB534}
+	EndGlobalSection
+EndGlobal
